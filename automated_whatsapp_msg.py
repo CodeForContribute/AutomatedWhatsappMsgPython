@@ -30,5 +30,5 @@ def send_msg():
 
 
 
-if __name__ == '__main__':
-    send_msg()
+# if __name__ == '__main__':
+#     send_msg()
